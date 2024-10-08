@@ -1,0 +1,14 @@
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/bin/Debug/net8.0/MergeSort
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/bin/Debug/net8.0/MergeSort.deps.json
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/bin/Debug/net8.0/MergeSort.runtimeconfig.json
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/bin/Debug/net8.0/MergeSort.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/bin/Debug/net8.0/MergeSort.pdb
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.AssemblyInfoInputs.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.AssemblyInfo.cs
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.csproj.CoreCompileInputs.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/refint/MergeSort.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.pdb
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/MergeSort.genruntimeconfig.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/Sort/MergeSort/MergeSort/obj/Debug/net8.0/ref/MergeSort.dll

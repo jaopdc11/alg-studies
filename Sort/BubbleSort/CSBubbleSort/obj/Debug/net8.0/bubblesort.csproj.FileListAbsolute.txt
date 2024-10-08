@@ -1,0 +1,14 @@
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.AssemblyInfoInputs.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.AssemblyInfo.cs
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.csproj.CoreCompileInputs.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/bin/Debug/net8.0/bubblesort
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/bin/Debug/net8.0/bubblesort.deps.json
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/bin/Debug/net8.0/bubblesort.runtimeconfig.json
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/bin/Debug/net8.0/bubblesort.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/bin/Debug/net8.0/bubblesort.pdb
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/refint/bubblesort.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.pdb
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/bubblesort.genruntimeconfig.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/bubblesort/bubblesort/obj/Debug/net8.0/ref/bubblesort.dll
