@@ -1,0 +1,14 @@
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/bin/Debug/net8.0/CSBinarySearch
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/bin/Debug/net8.0/CSBinarySearch.deps.json
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/bin/Debug/net8.0/CSBinarySearch.runtimeconfig.json
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/bin/Debug/net8.0/CSBinarySearch.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/bin/Debug/net8.0/CSBinarySearch.pdb
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.AssemblyInfoInputs.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.AssemblyInfo.cs
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.csproj.CoreCompileInputs.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/refint/CSBinarySearch.dll
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.pdb
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/CSBinarySearch.genruntimeconfig.cache
+/home/jaozzy/Área de trabalho/.apps/prog/estudos/algoritmos/Search/BinarySearch/CSBinarySearch/obj/Debug/net8.0/ref/CSBinarySearch.dll
